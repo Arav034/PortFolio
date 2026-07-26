@@ -598,5 +598,9 @@ footer{ padding: 60px 0 34px; border-top: 1px solid var(--border); position:rela
   .hero-actions .btn{ width:100%; }
   .portfolio-controls{ flex-direction:column; align-items:flex-start; }
   .search-wrap input{ width: 100%; }
+  .scroll-indicator{ bottom: 18px; gap: 6px; font-size: .64rem; }
+  .scroll-indicator .line{ height: 24px; }
+  .about-grid{ gap: 40px; }
+  .about-badge{ position: static; margin-top: 16px; left: auto; bottom: auto; padding: 14px 18px; }
   cursor{ display:none; }
 }
