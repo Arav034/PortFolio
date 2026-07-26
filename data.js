@@ -20,10 +20,10 @@ const SITE_DATA = {
       "I'm a video editor with a passion for turning raw, unstructured footage into stories that hold attention from the first frame to the last. Over the past few years I've cut everything from fast-paced short-form content to long-format YouTube documentaries, always with one goal — keep the viewer watching. I obsess over pacing, sound design, and color, because the difference between a video someone scrolls past and one they finish is almost always in the edit.",
     email: "aravinthmgt64@gmail.com",
     location: "Tamil Nadu, India",
-    yearsExperience: 3,
+    yearsExperience: 1,
     projectsCompleted: 120,
     happyClients: 45,
-    viewsGenerated: "50M+"
+    viewsGenerated: "10M+"
   },
 
   /* ---------- SOCIAL LINKS ---------- */
