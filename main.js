@@ -531,7 +531,7 @@ function renderContactSide() {
 
   // Footer "Connect" row: company logo first, then LinkedIn, then the rest — centered in circles.
   const footerIcons = [
-    { logo: 'assets/images/logo.png', link: '#home', alt: 'Aravinth Cuts logo' },
+    { logo: 'logo.png', link: '#home', alt: 'Aravinth Cuts logo' },
     { icon: 'fa-brands fa-linkedin-in', link: s.linkedin },
     ...socialIcons.filter(si => si.icon !== 'fa-brands fa-linkedin-in')
   ];
