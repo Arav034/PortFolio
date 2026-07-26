@@ -68,7 +68,7 @@ const SITE_DATA = {
       duration: "0:28",
       software: "CapCut PC",
       thumbnail: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=800&auto=format&fit=crop",
-      videoLink: "https://drive.google.com/file/d/1B_KQScWahqCnSnLKgFLUO0lKZQ_h9Sl5/preview",
+      videoLink: "https://drive.google.com/file/d/1B_KQScWahqCnSnLKgFLUO0lKZQ_h9Sl5",
       caseStudy: "A 28-second product reel edited for maximum retention with pattern-interrupt cuts every 1.5 seconds."
     },
     {
