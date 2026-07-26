@@ -21,8 +21,8 @@ const SITE_DATA = {
     email: "aravinthmgt64@gmail.com",
     location: "Tamil Nadu, India",
     yearsExperience: 1,
-    projectsCompleted: 120,
-    happyClients: 45,
+    projectsCompleted: 50,
+    happyClients: 25,
     viewsGenerated: "10M+"
   },
 
