@@ -9,7 +9,7 @@
 const SITE_DATA = {
 
   /* ---------- PERSONAL INFO ---------- */
-  personal: "Arivu T",
+  personal: "Aravinth T",
     brandName: "Aravinth_Cuts",
     role: "Professional Video Editor",
     tagline: "Creating High-Retention Videos That Capture Attention.",
