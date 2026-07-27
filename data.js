@@ -9,7 +9,8 @@
 const SITE_DATA = {
 
   /* ---------- PERSONAL INFO ---------- */
-  personal: "Aravinth T",
+  personal: {
+    name: "Aravinth T",
     brandName: "Aravinth_Cuts",
     role: "Professional Video Editor",
     tagline: "Creating High-Retention Videos That Capture Attention.",
@@ -19,9 +20,9 @@ const SITE_DATA = {
       "I'm a video editor with a passion for turning raw, unstructured footage into stories that hold attention from the first frame to the last. Over the past few years I've cut everything from fast-paced short-form content to long-format YouTube documentaries, always with one goal — keep the viewer watching. I obsess over pacing, sound design, and color, because the difference between a video someone scrolls past and one they finish is almost always in the edit.",
     email: "aravinthmgt64@gmail.com",
     location: "Tamil Nadu, India",
-    yearsExperience: 1,
-    projectsCompleted: 50,
-    happyClients: 25,
+    yearsExperience: 2,
+    projectsCompleted: 120,
+    happyClients: 45,
     viewsGenerated: "10M+"
   },
 
@@ -67,7 +68,7 @@ const SITE_DATA = {
       duration: "0:28",
       software: "CapCut PC",
       thumbnail: "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=800&auto=format&fit=crop",
-      videoLink: "https://drive.google.com/drive/folders/1tZe2BfI4IdDQv2JtSHguWzjN5xxwCGo1",
+      videoLink: "https://drive.google.com/file/d/1B_KQScWahqCnSnLKgFLUO0lKZQ_h9Sl5/preview",
       caseStudy: "A 28-second product reel edited for maximum retention with pattern-interrupt cuts every 1.5 seconds."
     },
     {
