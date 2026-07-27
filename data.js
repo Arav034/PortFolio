@@ -20,9 +20,9 @@ const SITE_DATA = {
       "I'm a video editor with a passion for turning raw, unstructured footage into stories that hold attention from the first frame to the last. Over the past few years I've cut everything from fast-paced short-form content to long-format YouTube documentaries, always with one goal — keep the viewer watching. I obsess over pacing, sound design, and color, because the difference between a video someone scrolls past and one they finish is almost always in the edit.",
     email: "aravinthmgt64@gmail.com",
     location: "Tamil Nadu, India",
-    yearsExperience: 2,
-    projectsCompleted: 120,
-    happyClients: 45,
+    yearsExperience: 1,
+    projectsCompleted: 50,
+    happyClients: 25,
     viewsGenerated: "10M+"
   },
 
@@ -50,7 +50,7 @@ const SITE_DATA = {
   services: [
     { icon: "fa-brands fa-youtube", title: "YouTube Editing", desc: "Retention-focused long form edits with pacing that keeps viewers watching till the end." },
     { icon: "fa-brands fa-instagram", title: "Instagram Reels", desc: "Scroll-stopping vertical edits built for the algorithm and the first three seconds." },
-    { icon: "fa-solid fa-bolt", title: "Short Form Content", desc: "Punchy, high-energy cuts optimized for TikTok, Reels and YouTube Shorts." },
+    { icon: "fa-solid fa-bolt", title: "Short Form Content", desc: "Punchy, high-energy cuts optimized for  Reels and YouTube Shorts." },
     { icon: "fa-solid fa-gamepad", title: "Gaming Videos", desc: "Fast-cut gameplay highlights, montages and stream recaps with impact." },
     { icon: "fa-solid fa-video", title: "Vlogs", desc: "Natural, story-driven edits that keep your personality front and center." },
     { icon: "fa-solid fa-microphone", title: "Podcast Editing", desc: "Clean multicam podcast edits plus repurposed short-form clips." },
